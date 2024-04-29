@@ -13,7 +13,7 @@ body {scale:1.5;
     margin-top: 900px;
 margin-left:50%;
 margin-right:50%;
-  background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/326221/bg.jpg);
+  background-image: url(https://github.com/NFCproz/resume5/blob/27a6c1ecf1fc80801c7613c1c33b4b2f39be516f/assets/img/bg.jpg);
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
@@ -28,7 +28,7 @@ h3 {
 .front {
 
 
-  background-image: url(assets/img/bc-front.jpg);
+  background-image: url(https://github.com/NFCproz/resume5/blob/27a6c1ecf1fc80801c7613c1c33b4b2f39be516f/assets/img/bc-front.jpg);
   background-size: cover;
 }
 
@@ -37,7 +37,7 @@ h3 {
 .back {
 
 
-  background-image: url(assets/img/bc-back.jpg);
+  background-image: url(https://github.com/NFCproz/resume5/blob/27a6c1ecf1fc80801c7613c1c33b4b2f39be516f/assets/img/bc-back.jpg);
   background-size: cover;
 }
 .back h1, .back p, .back .font-a-icons {
