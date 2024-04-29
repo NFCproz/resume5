@@ -13,7 +13,7 @@ body {scale:1.5;
     margin-top: 900px;
 margin-left:50%;
 margin-right:50%;
-  background-image: url(https://github.com/NFCproz/resume5/blob/27a6c1ecf1fc80801c7613c1c33b4b2f39be516f/assets/img/bg.jpg);
+  background-image: url(https://raw.githubusercontent.com/NFCproz/resume5/main/assets/img/bg.jpg);
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
@@ -28,7 +28,7 @@ h3 {
 .front {
 
 
-  background-image: url(https://github.com/NFCproz/resume5/blob/27a6c1ecf1fc80801c7613c1c33b4b2f39be516f/assets/img/bc-front.jpg);
+  background-image: url(https://raw.githubusercontent.com/NFCproz/resume5/main/assets/img/bc-front.jpg);
   background-size: cover;
 }
 
